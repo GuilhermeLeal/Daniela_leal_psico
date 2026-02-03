@@ -20,7 +20,7 @@ const TreatmentsSection = () => {
     },
     {
       icon: Gamepad2,
-      title: "Transtornos do jogo (aposta, jogos)",
+      title: "Transtornos do jogo",
     },
     {
       icon: Brain,

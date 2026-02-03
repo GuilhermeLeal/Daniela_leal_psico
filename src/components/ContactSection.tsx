@@ -46,13 +46,13 @@ const ContactSection = () => {
               <div className="flex items-start gap-4 text-cream/80">
                 <MapPin className="w-5 h-5 mt-0.5" />
                 <span className="text-sm">
-                  Av. Governador Agamenon Magalhães, n 2615
+                  Av. Governador Agamenon Magalhães, N° 2615
                 </span>
               </div>
             </div>
 
             <div className="space-y-4">
-              <p className="text-cream font-medium">Siga a gente</p>
+              <p className="text-cream font-medium">Siga a gente:</p>
               <div className="flex gap-4">
                 <a
                   href={instagramUrl}
