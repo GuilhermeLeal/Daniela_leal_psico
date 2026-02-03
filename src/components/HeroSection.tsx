@@ -10,8 +10,8 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative section-container pt-24">
         <div className="max-w-xl">
-          <p className="font-heading text-lg tracking-[0.2em] text-cream/90 mb-2">DANIELA C C LEAL</p>
-          <p className="text-sm tracking-wider text-cream/80 mb-8">Psicóloga Clínica</p>
+          <p className="font-heading text-lg tracking-[0.2em] text-cream/90 mb-2 bg-inherit font-bold">DANIELA C C LEAL</p>
+          <p className="text-sm tracking-wider text-cream/80 mb-8 font-bold">Psicóloga Clínica</p>
 
           <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl text-cream leading-tight mb-8">
             Cuidar da mente
