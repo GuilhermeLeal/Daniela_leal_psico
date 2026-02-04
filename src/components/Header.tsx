@@ -23,7 +23,7 @@ const Header = () => {
         <div className="flex items-center justify-between py-4">
           <a href="#" className="flex flex-col">
             <span className="font-heading text-xl tracking-[0.3em] text-mocha font-semibold">DANIELA C C LEAL</span>
-            <span className="text-xs tracking-wider text-mocha-lighter">Psicóloga Clínica</span>
+            <span className="text-xs tracking-wider text-mocha-lighter">Psicóloga Clínica - CRP02/33020</span>
           </a>
 
           {/* Desktop Navigation */}

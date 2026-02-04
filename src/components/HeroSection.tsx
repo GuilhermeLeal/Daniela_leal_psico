@@ -11,7 +11,7 @@ const HeroSection = () => {
       <div className="relative section-container pt-24">
         <div className="max-w-xl">
           <p className="font-heading text-3xl md:text-4xl tracking-[0.2em] text-cream mb-2 font-bold drop-shadow-lg">DANIELA C C LEAL</p>
-          <p className="text-lg md:text-xl tracking-wider text-cream mb-10 font-semibold drop-shadow-md">Psicóloga Clínica</p>
+          <p className="text-lg md:text-xl tracking-wider text-cream mb-10 font-semibold drop-shadow-md">Psicóloga Clínica - CRP02/33020</p>
 
           <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl text-cream leading-tight">
             Cuidar da mente

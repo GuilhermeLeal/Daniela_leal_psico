@@ -34,7 +34,7 @@ const ContactSection = () => {
               <p className="font-heading text-lg tracking-[0.2em] text-cream font-semibold">
                 DANIELA C C LEAL
               </p>
-              <p className="text-sm text-cream/70">Psicóloga Clínica</p>
+              <p className="text-sm text-cream/70">Psicóloga Clínica - CRP02/33020</p>
             </div>
 
             <div className="space-y-4">
