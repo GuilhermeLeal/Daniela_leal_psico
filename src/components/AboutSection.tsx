@@ -23,7 +23,7 @@ const AboutSection = () => {
           {/* Right Column - Text */}
           <div className="flex items-center">
             <p className="text-lg leading-relaxed text-foreground">
-              Sou psicóloga, especializanda em{" "}
+              Sou psicóloga, especializada em{" "}
               <strong>Terapia Cognitivo-Comportamental (TCC)</strong> com
               práticas baseadas em evidências atuando em diversos transtornos
               mentais.
